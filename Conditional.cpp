@@ -37,7 +37,7 @@ int main()
 //     }
 //     else
 //     {
-//         cout<<"The no is odd";
+//         cout<<"The no is odd"; // code to check the no is even or odd .
 //     }
 
 
